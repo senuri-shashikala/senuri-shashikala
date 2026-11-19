@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:4A2A18,100:8A5530&height=200&section=header&text=Senuri%20Shashikala&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BSc%20IT%20Undergraduate%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=16" width="100%" />
 </div>
+
 ### Hi there, I'm Senuri Shashikala 👋
 
 I am a **BSc in Information Technology undergraduate** at **The Open University of Sri Lanka (OUSL)**, building a strong foundation in programming, relational databases, and web development. I enjoy learning by building practical projects and writing clean, structured code.
